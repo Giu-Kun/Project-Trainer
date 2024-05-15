@@ -1,0 +1,51 @@
+Hi,
+Good that you found this Note. It's me Garfield.
+
+    We are getting closer to Luigi we need to get somethings though. First do you know what a Window Manager is? no ok then lets do the following
+        Task: Lookup what a Windowmanager compared to a Desktop is.
+
+    Ahh ok that is a Window Manager compared to a Desktop...
+        Task: graphilically demonstrate from kernel to application?
+
+    Ok thats a bit to much for me. Lets stick to Desktop envoirments for now.
+        Task: look up different Desktop envoirments. Fedora has multiple different Desktop envoirments listed as "Spins" Where are the differnces between the Official release and KDE Spin.
+
+    So is what is like super Lightweight maybe that helps.
+        Task: Lookup differences between Desktops. (ignore the Windowmanager Spins) Make a table.
+
+     We could put it on a USB and then boot on to a Live USB. But XFCE and LXQT dont look good... We have to make an impression too
+        Task: Create a Fedora-KDE Usb stick.
+
+     Maybe that works ok get in there and follow my instructions
+        Task: Use James Laptop and boot into the USB
+                1. Open Dolphin
+                2. Go to the Drive of the Laptop -> Home -> James -> Secrets
+                3. Open the secret sauce file
+
+    Why is it empty??? ahhh thats why it was probably not a secured home directory... Ok lets try something else. But i wanna be more careful.
+        Task: Take the Laptop with you and just unplug the stick without shutting down.
+
+    You see we didn't wipe the Memory of that Laptop. with some tools we now could be traced back or atleast they would know we used a stick to boot on a USB.
+    Since you are already on it. Install KDE on that Laptop. It is cooler than Gnome anyways
+        Task: Install KDE and create a "Hackerman" Account.
+
+
+    Lets use Tails.
+        Task: look up Tails and install it on a USB using their instructions. (tails.net)
+
+    Ok do the same again
+        Task: boot on Tails and open a Browser then Unplug the USB
+
+    See there our memory was wiped. that wouldve been better even though that is not what Tails is for.
+        Task: Boot back into KDE and login Hackerman
+
+    Ok lets make some Python code first. Make sure you have all the tools
+        Task: Install python and a Codeeditor
+
+    How about you write a simple Game just to check your skills. how about Snake? (you can do that on your Laptop)
+        Task: write Snake in Python
+
+
+
+
+
