@@ -10,6 +10,10 @@
 
 4. Reboot and remove the USB
 
+5. Setup the Admin account
+    a) Username Admin
+    b) Password "secret"
+
 6. open the Konsole
     a) update your system
     b) install kate, flatpak, git, firefox, python, pip, fish
@@ -24,7 +28,13 @@
     b) clear packages using dnf autoremove
 
 9. create James account
-    a)
+    a) Settings
+    b) Users
+    c) unlock
+    d) Add User...
+        I) Name: James
+       II) Password: Pizzastart-2
+
 
 10. Logout
 
