@@ -1,0 +1,34 @@
+Open the Terminal in the current directory and keep both Windows open while following the tasks listed here.
+
+    Existential crisis:
+        Where am I? Use pwd to check.
+        Who am I? use whoami to check.
+
+    Organizing Files:
+        Create a new directory named "Documents" using mkdir Documents.
+        Move all text files from the current directory to "Documents" using mv *.txt Documents/.
+        List the contents of "Documents" to ensure the files were moved using ls Documents.
+
+    File Manipulation and Viewing:
+        Create a new text file named "notes.txt" using touch notes.txt.
+        Write some text into "notes.txt" using a text editor like nano notes.txt.
+        Be a Neckbeard and use vim instead.
+        View the contents of "notes.txt" using cat notes.txt
+
+    File Compression and Archiving:
+        Archive the "Documents" directory into a tar file named "archive.tar" using tar -cvf archive.tar Documents/.
+        Compress the "archive.tar" file using gzip archive.tar.
+        Verify that the compressed file "archive.tar.gz" exists using ls.
+
+    File Permissions:
+        Create a new file named "restricted.txt" using touch restricted.txt.
+        create an archive and secure it with a password
+
+    Cleanup:
+        Remove unnecessary files or directories, such as the "Documents" directory and its contents, using rm -r Documents.
+        create a Folder called "Delete"
+        change directory into Delete
+        create a file and call it "Trash"
+        copy the file but call it "Trashier"
+        change directory to the parent directory
+        Use rmdir to remove the Folder "Delete"

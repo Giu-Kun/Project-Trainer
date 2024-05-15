@@ -1,0 +1,36 @@
+1. Use the Fedora Media writer to install Fedora Workstation to a USB
+2. Boot into the USB of the new Laptop. Using F12
+3. Follow the Installation Wizard
+    a) Language English
+    b) Intallation Destination > Done > delete all > reclaim space
+    c) Keyboard: German
+    d) Time: Europe/Berlin
+    e) Begin installation
+    f) wait till it finishes
+
+4. Reboot and remove the USB
+
+6. open the Konsole
+    a) update your system
+    b) install kate, flatpak, git, firefox, python, pip, fish
+
+7. open Browser and search for hyfetch Github (hykilpikonna/hyfetch)
+    a) use pip to install hyfetch
+    b) configure hyfetch
+    c) hyfetch
+
+8. debloat the system
+    a) remove unused Programms
+    b) clear packages using dnf autoremove
+
+9. create James account
+    a)
+
+10. Logout
+
+11. Login as James
+
+12. create a Folder called "Secrets"
+    create in there "Secret_Tomatoesauce.txt"
+
+13. Logout
